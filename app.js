@@ -12,7 +12,7 @@ const contactContent = "Scelerisque eleifend donec pretium vulputate sapien. Rho
 
 const app = express();
 
-mongoose.connect("mongodb+srv://kush-14:ZtBQ4QQcPDhyVNQC@cluster0.9nygn.mongodb.net/blogDb?retryWrites=true&w=majority", {
+mongoose.connect(process.env.MONGO_URL, {
   useNewUrlParser: true
 });
 
@@ -105,6 +105,6 @@ app.get("/delete/:postName", async function (req, res) {
 });
 
 
-app.listen(3000, function () {
+app.listen(process.env.PORT || 3000, function () {
   console.log("Server started on port 3000");
 });
