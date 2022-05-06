@@ -2,11 +2,11 @@
 
 ## Overview
 
-This website is designed to deliver notes to students while their examination with easy and fast access.
-Source code is written using CSS, JavaScript, EJS Templates in frontend and using NodeJS, MongoDB for backend and Hosted through Heroku platform.
+This website is designed for simply writting and reading blogs with Night mode feature.
+Source code is written using CSS, JavaScript, EJS Templates, Bootstrap in frontend and using NodeJS, MongoDB for backend and Hosted through Heroku platform.
 
 You can checkout our website by visiting through following link:
-[http://premnotes.herokuapp.com/](http://premnotes.herokuapp.com/)
+[https://blog-web14.herokuapp.com/](https://blog-web14.herokuapp.com/)
 
 You can also give your feedback or any suggestion for improvements to us using following form:
 [https://docs.google.com/forms/d/e/1FAIpQLSc9cSBSnxUaCplpm0I95oP-nk8Q9PxHmzGFiG3KpsrF1iCquA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSc9cSBSnxUaCplpm0I95oP-nk8Q9PxHmzGFiG3KpsrF1iCquA/viewform)
@@ -17,9 +17,9 @@ You can run our website in your local enviorment by following steps although to 
 
 ### Clone Repository
 
-You can clone or fork and clone our website by going through our repository on [github](https://github.com/Blacklion14/WebStartup-1):
+You can clone or fork and clone our website by going through our repository on [github](https://github.com/Blacklion14/blog_website):
 
-``` git clone https://github.com/Blacklion14/WebStartup-1 ```
+``` git clone https://github.com/Blacklion14/blog_website ```
 
 ### Dependencies
 
@@ -32,6 +32,10 @@ Install all dependencies by running following command:
 Start the dev server in your local by running following command:
 
 ``` npm start ```
+
+### Running Backend
+
+To run the backend you need to add env file containing correct enviorment varibales. You can contact us to run the backend completely through github by creating PR.
 
 ## Contribute
 
