@@ -9,7 +9,7 @@ You can checkout our website by visiting through following link:
 [https://blog-web14.herokuapp.com/](https://blog-web14.herokuapp.com/)
 
 You can also give your feedback or any suggestion for improvements to us using following form:
-[https://docs.google.com/forms/d/e/1FAIpQLSc9cSBSnxUaCplpm0I95oP-nk8Q9PxHmzGFiG3KpsrF1iCquA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSc9cSBSnxUaCplpm0I95oP-nk8Q9PxHmzGFiG3KpsrF1iCquA/viewform)
+[https://forms.gle/3XpwHWu4jWHj3T926](https://forms.gle/3XpwHWu4jWHj3T926)
 
 ## How To Run 
 
